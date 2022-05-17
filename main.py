@@ -53,4 +53,4 @@ async def circuitos(message):
         await message.channel.send(f'** {listaCircuitosAtual[i]} ** - ** {listaCircuitosLoc[i]} **')
 
 
-bot.run('OTczNjU5NzMwMTI1OTE0MTcz.GXy3_C.2vFE73RluCapXDHq6o7YmYgC76Pokk8VOZnxgI')
+bot.run('')
