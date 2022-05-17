@@ -20,6 +20,5 @@ Comando ```!construtores```
   - !equipes
   - !circuitos
 * Inserir emojis
-* Upar em um servidor 
 
-_obs: Todos esses comandos serão respectivos ao atual ano que for executado e a última corrida ocorrida_
+_obs: Todos esses comandos serão respectivos ao atual ano que e a última corrida ocorrida_
