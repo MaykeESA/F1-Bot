@@ -10,7 +10,7 @@ Comando ```!construtores```
 ![image](https://cdn.discordapp.com/attachments/973660650041638922/975495322916757576/rounded-in-photoretrica_1.png)
 
 
-* <h2> Obejtivos: </h2>
+* <h2> Objetivos: </h2>
 * Traduzir para português
 * Inserir mais comandos
   - !corrida
